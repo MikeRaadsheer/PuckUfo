@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 5955390c723674144a52c06114c0e7d2
+timeCreated: 1529390675
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: klein scheepje sprite_0
+    21300002: klein scheepje sprite_1
+    21300004: klein scheepje sprite_2
+    21300006: klein scheepje sprite_3
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 90
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: klein scheepje sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: klein scheepje sprite_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: klein scheepje sprite_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: klein scheepje sprite_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -16, y: 23}
+      - {x: -18, y: 28}
+      - {x: -20, y: 30}
+      - {x: -11, y: 36}
+      - {x: -7, y: 44}
+      - {x: -7, y: 52}
+      - {x: -14, y: 69}
+      - {x: -70, y: 90}
+      - {x: -76, y: 90}
+      - {x: -84, y: 85}
+      - {x: -84, y: -90}
+      - {x: -38, y: -90}
+      - {x: -7, y: -58}
+      - {x: -7, y: -35}
+      - {x: -14, y: -21}
+    - - {x: 84, y: -46}
+      - {x: 84, y: 79}
+      - {x: 58, y: 90}
+      - {x: 7, y: 90}
+      - {x: 7, y: -37}
+      - {x: 13, y: -38}
+      - {x: 16, y: -38}
+      - {x: 7, y: -54}
+      - {x: 7, y: -60}
+      - {x: 8, y: -62}
+      - {x: 14, y: -90}
+      - {x: 24, y: -90}
+      - {x: 76, y: -68}
+      - {x: 72, y: -59}
+      - {x: 79, y: -53}
+    physicsShape:
+    - - {x: -20, y: -60}
+      - {x: -7, y: -47}
+      - {x: -7, y: -43}
+      - {x: -15, y: -35}
+      - {x: -16, y: -23}
+      - {x: -41, y: -17}
+      - {x: -56, y: -16}
+      - {x: -69, y: 0}
+      - {x: -40, y: 15}
+      - {x: -16, y: 23}
+      - {x: -18, y: 28}
+      - {x: -20, y: 30}
+      - {x: -11, y: 36}
+      - {x: -7, y: 44}
+      - {x: -7, y: 48}
+      - {x: -15, y: 55}
+      - {x: -16, y: 67}
+      - {x: -41, y: 73}
+      - {x: -56, y: 73}
+      - {x: -67, y: 86}
+      - {x: -72, y: 90}
+      - {x: -76, y: 90}
+      - {x: -75, y: 79}
+      - {x: -70, y: 66}
+      - {x: -80, y: 58}
+      - {x: -78, y: 55}
+      - {x: -73, y: 53}
+      - {x: -76, y: 50}
+      - {x: -77, y: 44}
+      - {x: -76, y: 41}
+      - {x: -80, y: 34}
+      - {x: -79, y: 26}
+      - {x: -75, y: -13}
+      - {x: -84, y: -32}
+      - {x: -83, y: -35}
+      - {x: -77, y: -37}
+      - {x: -84, y: -56}
+      - {x: -84, y: -60}
+      - {x: -75, y: -69}
+      - {x: -77, y: -90}
+      - {x: -71, y: -90}
+      - {x: -57, y: -78}
+      - {x: -40, y: -74}
+      - {x: -16, y: -67}
+      - {x: -18, y: -62}
+    - - {x: 79, y: -53}
+      - {x: 84, y: -46}
+      - {x: 84, y: -43}
+      - {x: 76, y: -35}
+      - {x: 75, y: -23}
+      - {x: 50, y: -17}
+      - {x: 32, y: -13}
+      - {x: 20, y: 0}
+      - {x: 35, y: 16}
+      - {x: 50, y: 17}
+      - {x: 54, y: 20}
+      - {x: 76, y: 22}
+      - {x: 72, y: 31}
+      - {x: 80, y: 36}
+      - {x: 84, y: 44}
+      - {x: 84, y: 48}
+      - {x: 76, y: 55}
+      - {x: 75, y: 67}
+      - {x: 71, y: 68}
+      - {x: 50, y: 73}
+      - {x: 35, y: 74}
+      - {x: 20, y: 90}
+      - {x: 13, y: 90}
+      - {x: 19, y: 66}
+      - {x: 11, y: 58}
+      - {x: 13, y: 55}
+      - {x: 12, y: 51}
+      - {x: 7, y: 36}
+      - {x: 7, y: 34}
+      - {x: 14, y: 27}
+      - {x: 17, y: 17}
+      - {x: 13, y: -4}
+      - {x: 20, y: -23}
+      - {x: 7, y: -30}
+      - {x: 7, y: -39}
+      - {x: 11, y: -51}
+      - {x: 7, y: -56}
+      - {x: 7, y: -61}
+      - {x: 20, y: -67}
+      - {x: 14, y: -83}
+      - {x: 15, y: -90}
+      - {x: 23, y: -90}
+      - {x: 51, y: -74}
+      - {x: 76, y: -68}
+      - {x: 72, y: -59}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
